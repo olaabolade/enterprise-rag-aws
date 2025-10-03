@@ -9,7 +9,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system for intelligent d
 enterprise-rag-aws/  
 ├──terraform/  
 │├── main.tf                
-├── variables.tf 
+├── variables.tf   
 │└── outputs.tf            
 ├──src/        
 │├── app.py               
