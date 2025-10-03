@@ -1,10 +1,10 @@
 # enterprise-rag-aws
 A production-ready Retrieval-Augmented Generation (RAG) system for intelligent document question-answering, built with AWS serverless infrastructure and deployed via Terraform.
-# I finally decided on structure structure that should work!
+# I finally decided on the structure that should work!
 
 # Enterprise RAG System: LLM-Powered Document Intelligence on AWS
 
-## Project Structure
+# Project Structure
 
 enterprise-rag-aws/ 
 ├──terraform/  
