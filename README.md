@@ -14,16 +14,16 @@ enterprise-rag-aws/
 ├──src/        
 │├── app.py               
 │├── rag_pipeline.py        
-RAG implementation 
 │├── document_processor.py  
 │└── requirements.txt      
-Python dependencies 
+Python  
 ├──tests/                    
 │└── test_rag.py          
 ├──docs/                    
 │└── architecture.md      
 ├──deploy.sh                 
-├──.gitignore                └──README.md                 
+├──.gitignore                
+└──README.md                 
 
 # Technologies - for now
 LLM & AI: Amazon Bedrock, RAG, Prompt Engineering
