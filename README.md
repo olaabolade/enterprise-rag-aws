@@ -6,7 +6,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system for intelligent d
 
 # Project Structure
 
-enterprise-rag-aws/ 
+enterprise-rag-aws/  
 ├──terraform/  
 │├── main.tf                
 ├── variables.tf 
